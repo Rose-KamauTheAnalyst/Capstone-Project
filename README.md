@@ -41,7 +41,7 @@ Sales data was collected for each month throughout the entire year of 2019. The 
 
 ### Team members
 
-Jean Claude KWIZERA
-Martha Muli
-Bright Xorla Sefogah
-Rose Kamau
+1. Jean Claude KWIZERA
+2. Martha Muli
+3. Bright Xorla Sefogah
+4. Rose Kamau
